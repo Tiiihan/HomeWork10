@@ -4,4 +4,4 @@
 Console.Write("Enter string: ");
 string userInput = Console.ReadLine();
 
-Console.WriteLine(userInput./*Trim().*/Replace(" ", ""));
+Console.WriteLine(userInput.Replace(" ", ""));
